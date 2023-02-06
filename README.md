@@ -6,5 +6,5 @@ This repository contains all of the notes taken by [Mahad Abdi](https://github.c
 
 #Table of contents
 
-- Week 1 (/week_1)
-  - Day 1 (/week_1/day_1)
+- [Week 1](/week_1)
+  - [Day 1](/week_1/day_1)
